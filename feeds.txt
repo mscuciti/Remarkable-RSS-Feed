@@ -1,0 +1,4 @@
+{
+  "NYT" : "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+  "NPR" : "https://feeds.npr.org/1001/rss.xml"
+}
