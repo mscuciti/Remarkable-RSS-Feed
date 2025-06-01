@@ -1,6 +1,5 @@
 # Remarkable RSS
 
-
 ## Overview
 `remarkable-rss.py` is a Python script designed to fetch and display RSS feeds in a format suitable for the Remarkable e-reader. It enables users to stay updated on various content by converting RSS feeds into a compatible document format and sending it strait into the google drive, so that users can read it on remarkable.
 
@@ -12,13 +11,13 @@
 ## Installation
 1. Clone the repository:
 2. Run `pip install -r requirements.txt`
-3. Provide the RSS-Feed link inside the code.
+3. Provide the RSS-Feed links inside feeds.txt
 4. Save the .json location and folder ID in a `.env` file as 
 ```
  SERVICE_ACCOUNT_FILE = ''
  FOLDER_ID = '' 
  ```
-4. Execute and check the code if it is generating a .txt file and .pdf file.
+4. Execute and check the code if it is generating a .pdf file.
 
 ## Setting Up Google Services Account and Enabling Google Drive API
 
